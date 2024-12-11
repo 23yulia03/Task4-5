@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/Aggregate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/Builder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/ConcreteAggregate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/ConcreteBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/ConcreteIterator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/Director.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/HelloApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/HelloController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/ImageIterator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/Indicator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/task45/Iterator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/task45/hello-view.fxml" charset="UTF-8" />
+  </component>
+</project>
