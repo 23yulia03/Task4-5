@@ -112,7 +112,7 @@
 ```bash
 
 com/example/task45
-??? HelloApplication.java     # Основной класс приложения
+>> ??? HelloApplication.java     # Основной класс приложения
 ??? HelloController.java      # Контроллер
 ??? Aggregate.java            # Интерфейс для коллекции изображений
 ??? Builder.java              # Интерфейс для строителя индикатора
@@ -124,3 +124,4 @@ com/example/task45
 ??? Indicator.java            # Класс индикатора прогресса
 ??? ImageIterator.java        # Итератор для изображений
 ??? README.md                 # Документация проекта
+
